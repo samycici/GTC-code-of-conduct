@@ -18,7 +18,7 @@ Se um participante se engajar em comportamento de assédio, os representantes da 
 
 Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar ou peça ajuda aos administradores da comunidade. Estamos certos de que essa política ajudará a fazer do GTC - Grupo de Testes Carioca um espaço mais acolhedor, inclusivo, e integrador para todos.
 
-### Samy - Grupo de Testes Carioca
+###### Samy - Grupo de Testes Carioca
 
 
 
