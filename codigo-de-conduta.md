@@ -32,4 +32,4 @@ Se você for assediado, perceber que alguém está sendo assediado, ou tem outras p
 
 
 
-###### Samy - Grupo de Testes Carioca
+###### GTC - Grupo de Testes Carioca
