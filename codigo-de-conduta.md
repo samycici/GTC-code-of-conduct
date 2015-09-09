@@ -8,7 +8,16 @@ Nos dedicamos a promover uma comunidade respeitosa e livre de assédio para todos
 
 Não devem utilizar imagens, atividades ou materiais de conteúdo sexual, homofóbico, pejorativo e/ou discriminatório de qualquer natureza.
 
-Por assédio entende-se sem limitação, comentários ofensivos, verbais ou eletrônicos, relacionados a características ou escolhas pessoais, origem racial, gênero, bem como comentários ou imagens sexuais, racistas, homofóbicas ou discriminatórias de qualquer natureza em espaços públicos ou digitais, intimidação deliberada, bullying, perseguição, encalço, fotografias ou gravações que gerem embaraço, interrupções reiteradas de palestras, bate-papos, reuniões eletrônicas, reuniões físicas ou outros eventos, contato físico inadequado ou atenção sexual indesejada.
+Por assédio entende-se sem limitação:
+* Comentários ofensivos, verbais ou eletrônicos, relacionados a características pessoais, origem racial, orientação sexual, identidade de gênero, bem como comentários ou imagens sexuais, racistas, homofóbicas ou discriminatórias de qualquer natureza em espaços públicos ou digitais;
+* Intimidação deliberada;
+* Bullying;
+* Perseguição;
+* Encalço;
+* Fotografias ou gravações que gerem embaraço;
+* Interrupções reiteradas de palestras, bate-papos, reuniões eletrônicas, reuniões físicas ou outros eventos;
+* Contato físico inadequado ou atenção sexual indesejada.
+
 
 Espera-se que os participantes cumpram imediatamente solicitações para descontinuar qualquer assédio ou comportamento de bullying. Sejam gentis com os outros. Não insultem ou ofendam outros participantes. Comportem-se profissionalmente. Lembrem-se de que piadas de assédio, sexismo, racismo ou exclusão não são apropriadas para nossa comunidade.
 
