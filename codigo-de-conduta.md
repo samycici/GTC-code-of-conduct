@@ -1,4 +1,4 @@
-Código de conduta do GTC - Grupo de Testes Carioca
+# Código de conduta do GTC - Grupo de Testes Carioca
 
 O GTC - Grupo de Testes Carioca é uma comunida sem fins lucrativos cujo principal objetivo é promover a troca de experiências entre os profissionais de Teste de Software e Qualidade do Rio de Janeiro, através de encontros períodicos.
 
@@ -18,7 +18,7 @@ Se um participante se engajar em comportamento de assédio, os representantes da 
 
 Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar ou peça ajuda aos administradores da comunidade. Estamos certos de que essa política ajudará a fazer do GTC - Grupo de Testes Carioca um espaço mais acolhedor, inclusivo, e integrador para todos.
 
-Samy - Grupo de Testes Carioca
+### Samy - Grupo de Testes Carioca
 
 
 
